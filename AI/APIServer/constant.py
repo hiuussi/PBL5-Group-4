@@ -1,0 +1,2 @@
+URL_CAM= ""
+PATH_WEIGHT= ""
